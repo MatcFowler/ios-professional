@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		842D7D5A2B75820600B64BC0 /* onBoardingContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842D7D592B75820600B64BC0 /* onBoardingContainerViewController.swift */; };
+		842D7D5C2B75AF3F00B64BC0 /* onBoardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842D7D5B2B75AF3F00B64BC0 /* onBoardingViewController.swift */; };
 		84BDC59D2B644FAB00D5D3DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BDC59C2B644FAB00D5D3DB /* AppDelegate.swift */; };
 		84BDC5A12B644FAB00D5D3DB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BDC5A02B644FAB00D5D3DB /* LoginViewController.swift */; };
 		84BDC5A62B644FAC00D5D3DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84BDC5A52B644FAC00D5D3DB /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 
 /* Begin PBXFileReference section */
 		842D7D592B75820600B64BC0 /* onBoardingContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onBoardingContainerViewController.swift; sourceTree = "<group>"; };
+		842D7D5B2B75AF3F00B64BC0 /* onBoardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onBoardingViewController.swift; sourceTree = "<group>"; };
 		84BDC5992B644FAB00D5D3DB /* Banky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Banky.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84BDC59C2B644FAB00D5D3DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84BDC5A02B644FAB00D5D3DB /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				842D7D592B75820600B64BC0 /* onBoardingContainerViewController.swift */,
+				842D7D5B2B75AF3F00B64BC0 /* onBoardingViewController.swift */,
 			);
 			path = OnBoarding;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				84BDC5A12B644FAB00D5D3DB /* LoginViewController.swift in Sources */,
 				84BDC59D2B644FAB00D5D3DB /* AppDelegate.swift in Sources */,
 				842D7D5A2B75820600B64BC0 /* onBoardingContainerViewController.swift in Sources */,
+				842D7D5C2B75AF3F00B64BC0 /* onBoardingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
